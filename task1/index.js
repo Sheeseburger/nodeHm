@@ -22,4 +22,4 @@ function mostUsedLetter(text) {
 	return mostUsedLetter;
 }
 
-console.log(mostUsedLetter('HeLLo, World!'));
+module.exports = mostUsedLetter;
